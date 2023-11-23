@@ -5,7 +5,8 @@
 I am currently pursuing a Ph.D. in Mathematics and Computer Science at the University of Calabria.
 
 ## My Interests 🧠🌐📊
-Artificial Intelligence
+I'm interesting in Artigicial Intelligence in general, in particular:
+- **Answer Set Programming and other extensions**
 - **Logic Programming**
 - **Machine Learning**
 - **Deep Learning**
@@ -16,22 +17,10 @@ Artificial Intelligence
 Presently, I am primarily involved in research projects in the field of Artificial Intelligence. I am working on solving complex problems that require an hard computational approach, contributing innovative and practical solutions.
 
 ## Get in Touch! 📫🤝
-- Linkedin:
-- Facebook:
-- Instagram:
+Some useful contacts:
 - Email: giovanni.rotondaro@unical.it
+- Linkedin: www.linkedin.com/in/giovanni-rotondaro17
 
-<!--
-**giovannirotondaro/giovannirotondaro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Department of Mathematics and Computer Science  
+University of Calabria, Rende(CS)  
+Via P. Bucci Cubo 31B,
