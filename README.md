@@ -1,21 +1,25 @@
 ### Hi there, I'm Giovanni Rotondaro👋
 
-## Who I Am? 🎓💻
+## Who I Am? 🎓💻🔭
 
 I am currently pursuing a Ph.D. in Mathematics and Computer Science at the University of Calabria.
 
-## My Interests 🧠🌐
+## My Interests 🧠🌐📊
+Artificial Intelligence
+- **Logic Programming**
+- **Machine Learning**
+- **Deep Learning**
+- **Data Visualization**
+- **Statistics**
 
 ## Current Activities and Projects 🚀🔬
-
-## GitHub Statistics 📊
-
-- **Repositories**: [Number of repositories]
-- **Stars**: [Total stars received]
-- **Contributions**: [Total number of contributions]
-- **Followers**: [Number of followers]
+Presently, I am primarily involved in research projects in the field of Artificial Intelligence. I am working on solving complex problems that require an hard computational approach, contributing innovative and practical solutions.
 
 ## Get in Touch! 📫🤝
+- Linkedin:
+- Facebook:
+- Instagram:
+- Email: giovanni.rotondaro@unical.it
 
 <!--
 **giovannirotondaro/giovannirotondaro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
