@@ -1,4 +1,21 @@
-### Hi there 👋
+### Hi there, I'm Giovanni Rotondaro👋
+
+## Who I Am? 🎓💻
+
+I am currently pursuing a Ph.D. in Mathematics and Computer Science at the University of Calabria.
+
+## My Interests 🧠🌐
+
+## Current Activities and Projects 🚀🔬
+
+## GitHub Statistics 📊
+
+- **Repositories**: [Number of repositories]
+- **Stars**: [Total stars received]
+- **Contributions**: [Total number of contributions]
+- **Followers**: [Number of followers]
+
+## Get in Touch! 📫🤝
 
 <!--
 **giovannirotondaro/giovannirotondaro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
