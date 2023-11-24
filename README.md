@@ -23,4 +23,4 @@ Some useful contacts:
 
 Department of Mathematics and Computer Science  
 University of Calabria, Rende(CS)  
-Via P. Bucci Cubo 31B,
+Via P. Bucci Cubo 31B
